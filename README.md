@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Flávio</h1>
+<h3>Junior Web Developer from Portugal</h3>
 
-<!--
-**flav1o/flav1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently developing for [Casa d' Cazal](https://www.instagram.com/casadcazal/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Portfolio under construction [here](http://flav1o.me/)
+
+- 🌱 I’m currently learning **NodeJS**
+
+- 📫 How to reach me **flaviodancosta07@gmail.com**
+
+- 📄 [resume](http://flav1o.me/resume.pdf)
+
+- ⚡ Fun fact **Astronomy and Watches enthusiast.**
