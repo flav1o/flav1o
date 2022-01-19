@@ -15,6 +15,6 @@
 
 - ⚡ Fun fact **Astronomy and Watches enthusiast.**
 
-## 💬 Let's connect
+## 💬 Others
 <a href="https://gitlab.com/flav1o"><img src="https://img.shields.io/badge/-Fl%C3%A1vio_Costa_[@flav1o]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://gitlab.com/flav1o" /></a>
 <a href="https://www.linkedin.com/in/flav1o/"><img src="https://img.shields.io/badge/-Fl%C3%A1vio_Costa_[@flav1o]-c14438?color=F4F4F5&style=flat&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/flav1o/" /></a>
