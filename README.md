@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
 
-- 🔭 I’m currently developing for [Casa d' Cazal](https://www.instagram.com/casadcazal/)
+- 🔭 I’m currently working on [MiniBytes](https://github.com/LogicalDevs/minibytes-url-shortner)
 
 - 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
 
