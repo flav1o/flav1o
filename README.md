@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **flaviodancosta07@gmail.com**
 
-- 📄 [resume](http://flav1o.me/resume.pdf)
+- 📄 [resume](http://flav1o.com/resume.pdf)
 
 - ⚡ Fun fact **Astronomy and Watches enthusiast.**
 
