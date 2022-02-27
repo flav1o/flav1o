@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS & NestJS**
 
 - 📫 How to reach me **flaviodancosta07@gmail.com**
 
