@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
 
-- 🔭 I’m currently working on [MiniBytes](https://github.com/LogicalDevs/minibytes-url-shortner)
+- 🔭 I’m currently working on [PcDiga Scraper](https://github.com/flav1o/scraper-pcdiga)
 
 - 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
 
