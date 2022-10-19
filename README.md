@@ -3,15 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
 
-- 🔭 I’m currently working on [PcDiga Scraper](https://github.com/flav1o/scraper-pcdiga)
+- 🔭 I’m currently working on [Filebox Storage](https://github.com/flav1o/filebox)
 
 - 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
 
 - 🌱 I’m currently learning **ReactJS & NestJS**
 
-- 📫 How to reach me **flaviodancosta07@gmail.com**
-
-- 📄 [resume](http://flav1o.com/resume.pdf)
+- 📫 How to reach me **devflav1o@proton.me**
 
 - ⚡ Fun fact **Astronomy and Watches enthusiast.**
 
