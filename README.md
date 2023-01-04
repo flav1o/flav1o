@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
 
-- 🔭 I’m currently working on [Email Writter extension](https://github.com/flav1o/email-writer)
+- 🔭 I’m currently working on [Email Writer extension](https://github.com/flav1o/email-writer)
 
 - 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
 
