@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Md to LaTeX]([https://github.com/flav1o/email-writer](https://github.com/flav1o/md-to-tex))
 
-- 👨‍💻 Portfolio under construction [here](http://flav1o.com/)
+- 👨‍💻 Portfolio under construction [here]([http://flav1o.neti.com/](https://flav1o.netlify.app/)
 
 - 🌱 I’m currently learning **ReactJS & NestJS**
 
