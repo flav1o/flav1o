@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS & NestJS**
 
-- 📫 How to reach me **devflav1o@proton.me**
+- 📫 How to reach me **dev@flav1o.com**
 
 - ⚡ Fun fact **Astronomy and Watches enthusiast.**
 
