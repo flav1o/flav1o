@@ -2,12 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
-
-- 🔭 I’m currently working on [Md to LaTeX]([https://github.com/flav1o/email-writer](https://github.com/flav1o/md-to-tex))
-
-- 🌱 I’m currently learning **ReactJS & NestJS**
-
 - 📫 How to reach me **dev@flav1o.com**
+
+- 🌱 I’m currently learning **NextJs & NestJs**
 
 - ⚡ Fun fact **Astronomy and Watches enthusiast.**
 
