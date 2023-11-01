@@ -4,7 +4,7 @@
 
 **Less contributions since August:**
 <br />
-I'm currently focusing on university, projects that generates me income and [tutoring](https://discordapp.com/users/860174843412217916](https://www.superprof.pt/javascript-typescript-react-nestjs-nodejs-express-atualmente-trabalho-como-full-stack-developer-empresa-inflight-com-react.html)).
+I'm currently focusing on university, projects that generates me income and [tutoring](https://www.superprof.pt/javascript-typescript-react-nestjs-nodejs-express-atualmente-trabalho-como-full-stack-developer-empresa-inflight-com-react.html).
 <br />
 Rent is expensive 🤣
 
