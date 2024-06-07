@@ -18,4 +18,4 @@ Rent is expensive 🤣
 <a href="https://www.linkedin.com/in/flav1o/"><img src="https://img.shields.io/badge/-Fl%C3%A1vio_Costa_[@flav1o]-c14438?color=F4F4F5&style=flat&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/flav1o/" /></a>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://raw.githubusercontent.com/flav1o/nvim_config/main/3wL5YqV.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/flav1o/nvim_config/main/wallhaven-2yx5og.jpg');]{x0000}$}
