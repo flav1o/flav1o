@@ -2,15 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
-**Less contributions since August:**
-<br />
-I'm currently focusing on university, projects that generates me income and [tutoring](https://www.superprof.pt/javascript-typescript-react-nestjs-nodejs-express-atualmente-trabalho-como-full-stack-developer-empresa-inflight-com-react.html).
-<br />
-Rent is expensive 🤣
-
-- 📫 How to reach me **dev@flav1o.com** or in [Discord](https://discordapp.com/users/860174843412217916)
-
-- 🌱 I’m currently learning **NextJs & NestJs**
+- 🌱 I’m currently learning **Kotlin (rn native modules) & NestJs**
 
 
 ## 🧾 Others
