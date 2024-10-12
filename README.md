@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flav1o&label=Profile%20views&color=0e75b6&style=flat" alt="flav1o" /> </p>
 
 - 🌱 I’m currently learning **Kotlin (rn native modules) & NestJs**
+- 💼 Currently working for FanDuel
 
 
 ## 🧾 Others
